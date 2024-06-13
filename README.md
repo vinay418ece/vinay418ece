@@ -1,8 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![MasterHead](https://www.borntodev.com/wp-content/uploads/2020/10/front-end.png)
 <h1 align="center">Hi 👋, I'm Kokkalakonda vinay kumar</h1>
 <h3 align="center">A passionate frontend developer</h3>
-
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinay418ece&label=Profile%20views&color=0e75b6&style=flat" alt="vinay418ece" /> </p>
 
 - 🌱 I’m currently learning **HTML,CSS,Java Script,React.JS**
@@ -24,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinay418ece&show_icons=true&locale=en&layout=compact" alt="vinay418ece" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinay418ece&show_icons=true&locale=en" alt="vinay418ece" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinay418ece&" alt="vinay418ece" /></p>
